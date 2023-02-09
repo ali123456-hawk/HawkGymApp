@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HawkGymApp/static/css/main.41f65376.css",
+    "main.js": "/HawkGymApp/static/js/main.af89bcd5.js",
+    "static/media/banner.png": "/HawkGymApp/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/HawkGymApp/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/HawkGymApp/index.html",
+    "main.41f65376.css.map": "/HawkGymApp/static/css/main.41f65376.css.map",
+    "main.af89bcd5.js.map": "/HawkGymApp/static/js/main.af89bcd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41f65376.css",
+    "static/js/main.af89bcd5.js"
+  ]
+}
